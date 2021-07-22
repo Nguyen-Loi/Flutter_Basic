@@ -1,0 +1,1 @@
+ build\\web\\favicon.png build\\web\\icons\\Icon-192.png build\\web\\icons\\Icon-512.png build\\web\\index.html build\\web\\manifest.json:  C:\\Develop\\Project\\bmi\\web\\favicon.png C:\\Develop\\Project\\bmi\\web\\icons\\Icon-192.png C:\\Develop\\Project\\bmi\\web\\icons\\Icon-512.png C:\\Develop\\Project\\bmi\\web\\index.html C:\\Develop\\Project\\bmi\\web\\manifest.json
