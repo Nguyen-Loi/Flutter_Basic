@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282297685766",
+    "project_id": "getchat-9a3ad",
+    "storage_bucket": "getchat-9a3ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282297685766:android:3784fb2b6a1a8b59e6f087",
+        "android_client_info": {
+          "package_name": "com.example.getchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282297685766-ngoqatfqfvusq0cig9ij0fe9dcde9ss4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk6C2ZZx_DLKaTkCFx27QKDSvM5YfxKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282297685766-ngoqatfqfvusq0cig9ij0fe9dcde9ss4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
